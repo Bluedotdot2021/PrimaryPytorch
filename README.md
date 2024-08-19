@@ -16,7 +16,7 @@ pytorch是由美国Meta公司开发发布的深度学习训练框架，在学术
 2.	用tensor表示数据
 3.	模型的训练
 4.	神经网络模型及训练
-<img src="infos.png" alt="专题内容四部分" width="800" height="300">
+<img src="infos.png" alt="专题内容四部分" width="800" height="350">
 
 在任何一份介绍pytorch的资料中，都一定会首先介绍tensor，tensor是pytorch中最基础最重要的数据结构，
 它贯穿整个pytorch编程；了解了有关tensor的常用操作后，
